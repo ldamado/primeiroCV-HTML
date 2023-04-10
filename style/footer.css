@@ -1,0 +1,10 @@
+footer {
+    background-color: var(--background);
+    text-align: center;
+}
+
+.copyright {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--copy);
+}
