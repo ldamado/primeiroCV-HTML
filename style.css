@@ -26,6 +26,14 @@
     --copy: #98A2B3;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
+:target {
+    scroll-margin-top: 50px;
+}
+
 body {
     font-family: var(--font);
     font-weight: 500;
